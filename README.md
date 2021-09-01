@@ -5,4 +5,4 @@ Hey moi c'est Jikan ! Je suis un jeune développeur indépendant ^^. J'aime dév
 
 # EN
 
-Hey I'm Jikan! I am a young independent developer ^^. I like to develop a lot of things in python (99% of the time) and javascript.
+Hey I'm Jikan! I am a young independent developer ^^. I like to develop a lot of things in python (99% of the time) and in javascript.
