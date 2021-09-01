@@ -1,7 +1,7 @@
 # Jikan
 # FR
 
-Hey moi c'est Jikan ! Je suis un jeune développeur indépendant ^^. J'aime développer un beaucoup de choses en python (99% du temps) et en javascript.
+Hey moi c'est Jikan ! Je suis un jeune développeur indépendant ^^. J'aime développer beaucoup de choses en python (99% du temps) et en javascript.
 
 # EN
 
