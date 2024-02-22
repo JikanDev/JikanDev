@@ -13,7 +13,7 @@
 
 - 👨‍💻 All my public projects are available on **[My Website](https://jikan.xyz)** and on **[My GitHub Page](https://github.com/jikan-xyz)**
 
-- 📫 How to reach me: **jikandev@gmail.com**
+- 📫 How to reach me: **contact@jikan.xyz**
 
 - ⚡ Fun fact: **I very love Japanese Culture and Dinosaurs.**
 
@@ -37,7 +37,7 @@
 <a href = "https://discordapp.com/users/372092164458676225"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
 <a href = "https://www.instagram.com/jikandev/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC4nbZMobwolqomXfvusJ3MQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "mailto:jikandev@gmail.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
+<a href = "mailto:contact@jikan.xyz"><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
 
 </p>
 
